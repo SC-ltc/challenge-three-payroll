@@ -16,8 +16,10 @@ https://github.com/SC-ltc/challenge-three-payroll
 
 The images below show the page's intended appearance and functionality.
 
-![screenshot](Assets/03-javascript-homework-console-demo.png)
 ![screenshot](Assets/03-javascript-homework-demo.gif)
+
+![screenshot](Assets/03-javascript-homework-console-demo.png)
+
 
 ## Starter code provided by:
 
